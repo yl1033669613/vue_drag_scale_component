@@ -9,7 +9,7 @@ module.exports = {
         publicPath: '/dist/',
         // filename: 'build.js'
         filename: 'drag-scale-layer.js',
-        library: 'DragScaleLayer',
+        library: 'drag-scale-layer',
         libraryTarget: 'umd',
         umdNamedDefine: true
     },
