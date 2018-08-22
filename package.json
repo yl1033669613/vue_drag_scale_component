@@ -1,7 +1,7 @@
 {
   "name": "drag-scale-layer",
   "description": "A draggable and scalable layer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "yl",
   "license": "MIT",
   "private": false,

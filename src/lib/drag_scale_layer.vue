@@ -247,6 +247,11 @@ export default {
         p {
             margin: 0;
             display: inline-block;
+            max-width: calc(100% - 100px);
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            text-align: left;
         }
         .layer-fn-btns {
             float: right;

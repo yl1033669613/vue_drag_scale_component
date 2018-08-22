@@ -21,6 +21,12 @@ Vue.use(dragScaleLayer) //使用插件
 //组件事件
 @close //监听组件内关闭事件
 
+...
+closeFunction (){
+	this.popVis = false;
+}
+...
+
 // 组件属性
 //layerWidth 定义组件被打开时的初始宽度 Number default 800
 //layerHeight 定义组件被打开时的初始高度 Number default 500
@@ -31,4 +37,6 @@ Vue.use(dragScaleLayer) //使用插件
 //miniW 定义组件最小宽度 Number default 200
 //miniH 定义组件最小高度 Number default 200
 ```
+## 兼容
+兼容IE10以上
 
