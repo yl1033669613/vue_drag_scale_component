@@ -40,3 +40,7 @@ closeFunction (){
 ## 兼容
 兼容IE10以上
 
+## 效果图
+![效果图](https://github.com/yl1033669613/vue_drag_scale_component/raw/master/eft_pic1.png)  
+![效果图（缩放）](https://github.com/yl1033669613/vue_drag_scale_component/raw/master/eft_pic2.png)  
+
