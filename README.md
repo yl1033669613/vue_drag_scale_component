@@ -3,7 +3,7 @@
 
 ## demo
 
-[点击查看demo](https://github.com/yl1033669613/vue_drag_scale_component/blob/master/eft_pic2.jpg)
+[点击查看demo](https://yl1033669613.github.io/vue_drag_scale_component/demo/demo.html)
 
 ## 用法
 ```javascript
