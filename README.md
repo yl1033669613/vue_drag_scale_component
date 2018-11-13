@@ -1,15 +1,25 @@
 # vue_drag_scale_component
-基于vue.js的pc端弹出框插件 可拖拽 全屏 可缩放
+基于vue.js的pc端弹窗插件 可拖拽 全屏 可缩放
+
+## demo
+
+[点击查看demo](https://github.com/yl1033669613/vue_drag_scale_component/blob/master/eft_pic2.jpg)
+
 ## 用法
 ```javascript
 //1. 下载并直接引用 （基于vue.js 请先引用vue.js）
 <script src="/your path/vue.js"></script>
 <script src="/your path/drag-scale-layer.js"></script>
+<script>
+	Vue.use('dragScaleLayer')
+</script>
 
 //2. npm install drag-scale-layer -S 
-import Vue from 'vue'
-import dragScaleLayer from 'drag-scale-layer'
-Vue.use(dragScaleLayer) //使用插件
+<script>
+	import Vue from 'vue'
+	import dragScaleLayer from 'drag-scale-layer'
+	Vue.use(dragScaleLayer) //使用插件
+</script>
 ```
 ## 页面组件属性参数
 ```javascript
